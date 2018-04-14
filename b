@@ -1,1 +1,1 @@
-pipeline inline ?!
+qual disparou?
