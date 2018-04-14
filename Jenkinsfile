@@ -1,10 +1,10 @@
 pipeline {
-  stage('Pipeline do Jenkinsfile'){
+  stages('Pipeline do Jenkinsfile'){
     steps {
       sh 'echo "Funciona :)"'
     }
   }
-  stage('Run coco.sh'){
+  stages('Run coco.sh'){
     steps{
       sh 'bash coco.sh'
     }
