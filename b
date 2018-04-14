@@ -1,1 +1,1 @@
-bora!aaaa
+pipeline inline ?!
