@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-echo "belesma"
+echo "Ao sair para passar com o cachorro, nao esquecer a sacolinha!"
