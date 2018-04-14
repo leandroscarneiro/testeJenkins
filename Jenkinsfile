@@ -4,20 +4,26 @@ pipeline {
   stages {
     stage('Pipeline do Jenkinsfile'){
       steps {
-        set +x
-        sh 'echo "Funciona :)"'
+        sh '''
+          set +x
+          echo "Funciona :)"
+        '''
       }
      }
     stage('Run coco.sh'){
       steps{
-        set +x
-        sh 'bash coco.sh'
+        sh '''
+          set +x
+          bash coco.sh
+        '''
       }
     }
     stage('Bye'){
       steps{
-        set +x
-        sh 'echo bye bye'
+        sh '''
+          set +x
+          echo bye bye
+        '''
       }
     }
   }
