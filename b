@@ -43,3 +43,4 @@ Utilizando head_commit
 
 configurando Optional filter
 Nao eh real -> ----Ao configurar o Optional Filter as variaveis não são encaminhadas para o env...
+teste de if no pipeline
