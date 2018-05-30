@@ -42,3 +42,4 @@ Utilizando plugin "Generic Webhook Trigger Plugin" - https://wiki.jenkins.io/dis
 Utilizando head_commit
 
 configurando Optional filter
+Ao configurar o Optional Filter as variaveis não são encaminhadas para o env...
